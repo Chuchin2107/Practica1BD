@@ -1,2 +1,3 @@
-# Practica1BD
-Repositorio con la practica 1
+Jesús Emmanuel Ramos Padrón
+Grupo 3CV3
+Carrera Ingenería en Sistemas Computacionales
